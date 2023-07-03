@@ -4,6 +4,7 @@ The target of this create a streamlit application that will display the imformat
 
 ## Output
 
-![Alt text](images\langchain.jpg?raw=true)
+![langchain](https://github.com/akash-soni/langchain_hands_on/assets/37892453/f4fb5ec5-afb1-45b8-81c4-3788c10f3d7f)
+
 
 ### T
